@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently studying Computer Science Degree in URV.
+Cybersecurity amateur.
+
+
 <!--
 **TreKar99/TreKar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
